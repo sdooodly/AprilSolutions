@@ -1,0 +1,16 @@
+{
+  "@microsoft/generator-sharepoint": {
+    "plusBeta": false,
+    "isCreatingSolution": true,
+    "version": "1.14.0",
+    "libraryName": "april-solutions",
+    "libraryId": "96367dc1-e56b-46d9-bbcc-fed06f7e6879",
+    "environment": "spo",
+    "packageManager": "npm",
+    "solutionName": "April_solutions",
+    "solutionShortDescription": "April_solutions description",
+    "skipFeatureDeployment": true,
+    "isDomainIsolated": false,
+    "componentType": "webpart"
+  }
+}

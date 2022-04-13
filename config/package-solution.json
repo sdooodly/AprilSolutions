@@ -1,0 +1,40 @@
+{
+  "$schema": "https://developer.microsoft.com/json-schemas/spfx-build/package-solution.schema.json",
+  "solution": {
+    "name": "april-solutions-client-side-solution",
+    "id": "96367dc1-e56b-46d9-bbcc-fed06f7e6879",
+    "version": "1.0.0.0",
+    "includeClientSideAssets": true,
+    "skipFeatureDeployment": true,
+    "isDomainIsolated": false,
+    "developer": {
+      "name": "",
+      "websiteUrl": "",
+      "privacyUrl": "",
+      "termsOfUseUrl": "",
+      "mpnId": "Undefined-1.14.0"
+    },
+    "metadata": {
+      "shortDescription": {
+        "default": "April_solutions description"
+      },
+      "longDescription": {
+        "default": "April_solutions description"
+      },
+      "screenshotPaths": [],
+      "videoUrl": "",
+      "categories": []
+    },
+    "features": [
+      {
+        "title": "april-solutions Feature",
+        "description": "The feature that activates elements of the april-solutions solution.",
+        "id": "fe441495-f3ef-4a47-b192-b871b4eecd31",
+        "version": "1.0.0.0"
+      }
+    ]
+  },
+  "paths": {
+    "zippedPackage": "solution/april-solutions.sppkg"
+  }
+}
